@@ -50,5 +50,9 @@ git clone https://github.com/your-username/E-P1ant-Shopping-.git
 cd e-plantShopping
 npm install
 
+Run development server:
+```bash
+npm run dev
+
 
 
