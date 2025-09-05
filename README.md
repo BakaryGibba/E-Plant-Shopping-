@@ -32,4 +32,23 @@ e-plantShopping/
 └── README.md # Project documentation
 
 
+---
+
+## 🛠️ Tech Stack
+- **Frontend Framework:** React (with Vite)  
+- **Styling:** CSS / Tailwind (optional)  
+- **Deployment:** GitHub Pages  
+- **Version Control:** Git + GitHub  
+
+---
+
+## ⚙️ Installation & Setup
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/E-P1ant-Shopping-.git
+cd e-plantShopping
+npm install
+
+
 
