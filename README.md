@@ -15,4 +15,13 @@ This project is built using **React + Vite**, showcasing my transition from **Da
 ---
 
 ## 📂 Project Structure
+e-plantShopping/
+├── public/ # Static assets
+├── src/ # React components & app logic
+├── dist/ # Production build (auto-generated)
+├── index.html # Entry HTML file
+├── vite.config.js # Vite configuration file
+├── package.json # Dependencies & scripts
+└── README.md # Project documentation
+
 
