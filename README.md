@@ -71,7 +71,7 @@ npm run preview
 ## 🚀 Deployment
 
 This project is deployed via **GitHub Pages**.
-🔗 [Live Demo](https://your-username.github.io/E-P1ant-Shopping-/)
+🔗 [Live Demo](https://bakarygibba.github.io/E-Plant-Shopping-/)
 
 ---
 
