@@ -90,20 +90,6 @@ This project is deployed via **GitHub Pages**.
 
 ---
 
-## 👨‍💻 About Me
-
-I am **Bakary Gibba**, a **Data Science & AI Developer** expanding my expertise into **Full-Stack Web Development**.
-This project demonstrates my ability to build scalable, production-ready web applications while integrating modern technologies.
-
-📌 Areas of expertise:
-
-* Artificial Intelligence & Data Science
-* Backend Development (Flask, APIs)
-* Full-Stack Web Development (React, Node.js)
-* Cloud & Deployment (GitHub Pages, Docker, IBM WatsonX)
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
