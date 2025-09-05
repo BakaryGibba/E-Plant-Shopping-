@@ -49,6 +49,5 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/E-P1ant-Shopping-.git
 cd e-plantShopping
 npm install
-```bash
-Bajakaa
+
 
